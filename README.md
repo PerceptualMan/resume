@@ -1,18 +1,10 @@
 # 金薛慧 - 前端工程师
 
-::: left
-
 男 | 23 | 6年经验 | 期望薪资20k
 
-[icon:email dreamwritten.coder@gmail.com](mailto:dreamwritten.coder@gmail.com)
+邮箱: dreamwritten.coder@gmail.com
 
-icon:phone 17717075289
-
-:::
-
-::: right
-
-:::
+手机: 17717075289
 
 ## 介绍
 
@@ -110,14 +102,4 @@ icon:phone 17717075289
 
 ### 北京外国语大学 （2018年09月 - 2021年03月）
 
-::: left
-
-工商管理 大专
-
-:::
-
-:::right
-
-（成人）
-
-:::
+工商管理 大专（成人）
